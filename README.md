@@ -2,7 +2,6 @@
 
 - 📚 Atualmente sou estudante Back-end;
 - 💬 Me pergunte sobre os conflitos do desenvolvimento de uma desenvolvedora;
-- 📫 Para contato: adamaia.dev@gmail.com;
 - 😄 Ela/Dela;
 - ⚡ Além da vida de programação eu amo ler, e sempre estou escutando um Reggaeton;
 
