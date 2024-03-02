@@ -1,9 +1,5 @@
 ### Olá! Sou Ada Maia, seja bem-vinda(o) ao meu perfil! 👋
 
-- 📚 Atualmente sou estudante Back-end;
-- 💬 Me pergunte sobre os conflitos do desenvolvimento de uma desenvolvedora;
-- 😄 Ela/Dela;
-- ⚡ Além da vida de programação eu amo ler, e sempre estou escutando um Reggaeton;
 
 
 <div  align="center" style="margin-bottom:100px">
